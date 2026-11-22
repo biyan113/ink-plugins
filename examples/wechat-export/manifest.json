@@ -1,0 +1,11 @@
+{
+  "id": "wechat-export",
+  "name": "公众号导出",
+  "version": "0.1.0",
+  "minInkVersion": "0.1.18",
+  "author": "Ink",
+  "description": "把文档排成公众号文章：样式全部内联，复制后直接粘贴到公众号编辑器，或导出成带「复制」按钮的预览网页。只在本机处理，不调用微信接口。",
+  "permissions": {
+    "clipboard": true
+  }
+}

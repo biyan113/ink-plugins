@@ -1,0 +1,8 @@
+{
+  "id": "hello",
+  "name": "你好",
+  "version": "0.1.0",
+  "minInkVersion": "0.1.18",
+  "author": "Ink",
+  "description": "最小的示例插件：在光标处插入今天的日期，或给选中的文字加上书名号"
+}
